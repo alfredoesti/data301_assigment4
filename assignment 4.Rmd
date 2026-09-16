@@ -1,0 +1,36 @@
+---
+title: "Assignment 4 — DATA301/DATA471"
+author: "Alfredo Estirado Cubero"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Exercise 1
+
+## 1. Order statistics: Wicklin (2017) summary
+
+## 2. Bootstrap bias-corrected estimator ($\tilde\lambda$)
+
+## 3. Monte Carlo comparison
+
+# Exercise 2 — `ausbeer` time series
+
+## 1. Frequency of the series
+
+## 2. Overall behaviour / trend
+
+## 3. Seasonality
+
+## 4. Variability over time
+
+## 5. Unusual observations
+
+## 6. Seasonal plot
+
+## 7. Seasonal subseries plot
+
+## 8. Detrend/transform decision
